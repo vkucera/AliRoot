@@ -13,7 +13,8 @@
 #include <AliEveMUONChamberData.h>
 
 #include <TGLRnrCtx.h>
-#include <TGLIncludes.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
 #include <TMath.h>
 
 
